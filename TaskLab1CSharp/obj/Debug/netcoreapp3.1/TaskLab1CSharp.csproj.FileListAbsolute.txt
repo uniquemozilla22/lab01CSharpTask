@@ -1,0 +1,13 @@
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.csprojAssemblyReference.cache
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.AssemblyInfoInputs.cache
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.AssemblyInfo.cs
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.exe
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.deps.json
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.runtimeconfig.json
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.runtimeconfig.dev.json
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.dll
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\bin\Debug\netcoreapp3.1\TaskLab1CSharp.pdb
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.dll
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.pdb
+C:\Users\unique\source\repos\TaskLab1CSharp\TaskLab1CSharp\obj\Debug\netcoreapp3.1\TaskLab1CSharp.genruntimeconfig.cache
